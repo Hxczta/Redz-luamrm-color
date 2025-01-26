@@ -56,7 +56,7 @@ local redzlib = {
 		TabSize = 160,
 		Theme = "Darker"
 	},
-}
+},
 
 	Settings = {},
 	Connection = {},
